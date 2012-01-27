@@ -1,0 +1,7 @@
+only version-control the code files
+(the C# files)
+.
+
+DO NOT version the solution file
+or the local_constants.h header,
+which should contain constants like the absolute path of COIN_WAV
